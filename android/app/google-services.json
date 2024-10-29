@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291104421548",
+    "project_id": "recetascocina-99278",
+    "storage_bucket": "recetascocina-99278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291104421548:android:7721bc1bc69091711b9109",
+        "android_client_info": {
+          "package_name": "com.example.rc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddwiSYi2UhBMzP7E41D6h7B1amijUBZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291104421548:android:2540275ea2bac5021b9109",
+        "android_client_info": {
+          "package_name": "com.expample.rc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddwiSYi2UhBMzP7E41D6h7B1amijUBZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
